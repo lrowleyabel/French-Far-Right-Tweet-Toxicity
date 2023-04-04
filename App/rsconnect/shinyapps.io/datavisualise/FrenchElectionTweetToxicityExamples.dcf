@@ -1,0 +1,13 @@
+name: FrenchElectionTweetToxicityExamples
+title: FrenchElectionTweetToxicityExamples
+username:
+account: datavisualise
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 8657710
+bundleId: 7003500
+url: https://datavisualise.shinyapps.io/FrenchElectionTweetToxicityExamples/
+when: 1679672266.69014
+lastSyncTime: 1679672266.69015
+asMultiple: FALSE
+asStatic: FALSE
